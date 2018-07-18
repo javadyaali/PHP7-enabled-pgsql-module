@@ -1,6 +1,6 @@
 FROM registry.bale.ai:2443/php:7.2-apache
 
-MAINTAINER Hossein Ansari version: 1.0.7
+MAINTAINER Javad YaAli & Hossein Ansari version: 1.0.7
 
 ENV APACHE_RUN_USER www-data
 ENV APACHE_RUN_GROUP www-data
